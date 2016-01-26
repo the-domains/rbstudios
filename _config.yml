@@ -1,0 +1,28 @@
+name: RBStudios
+favicon: null
+layout_spectrum: 0.20767493802122772
+typography_spectrum: 0.9541277464013547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6345744393765926
+  lightness: 0.7135895092505962
+  saturation: 0.3743941665161401
+  rhythmicContrast: 0.4210182970855385
+purpose: []
